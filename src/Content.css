@@ -1,0 +1,20 @@
+.content{
+    margin-left: 20px;
+}
+.content>h5{
+    font-size: 14px;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: #878787;
+
+}
+
+.content>p{
+    font-size: 11px;
+    font-family: Roboto,Arial,sans-serif;
+    margin: 15px 0 15px;
+    color: #878787;
+}

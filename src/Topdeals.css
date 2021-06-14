@@ -1,0 +1,80 @@
+.topdeal{
+    
+    background-color: rgb(255, 255, 255);
+    height: 350px;
+    margin-left: 30.5px;
+}
+.cont{
+        padding-top: 14px;
+        padding-bottom: 14px;
+        padding-right: 14px;
+        margin-left: -14px;
+        
+        background-color: rgba(185, 86, 86, 0.883)
+
+}
+
+.topdeals{
+    display: flex;
+}
+
+
+.topdeals>h4{
+    width: 660px;
+    margin-left: 20px;
+    margin-top: 15px;
+    padding-right: 116px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.topdeals>button{
+    margin-top: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    font-weight: 400;
+    outline: none;
+    color: white;
+    background-color: #2874f0;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    padding:7px;
+    padding-top: 4px;
+    margin-right: 10px;
+    margin-left: 820px;
+    width: 160px;
+    height: 45px;
+    border-radius: 3px;
+}
+.product__1{
+    background-color: rgb(255, 255, 255);
+padding-left: 20px;
+}
+.img__1{margin-left:50px;
+  
+}
+.cont__1{
+    width: 97%;
+}
+
+.product__name{text-align: center;
+    margin-top: 13px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.Offer{font-family: sans-serif;
+    font-family: sans-serif;
+    font-size: 13px;
+    text-align:center ;
+    color: green;
+    margin-left: 80px;
+
+}
+.offer1{font-family: sans-serif;
+    font-family: sans-serif;
+    font-size: 13px;
+    text-align:center ;
+    color: rgb(61, 63, 61);
+    margin-left: 80px;
+
+}
